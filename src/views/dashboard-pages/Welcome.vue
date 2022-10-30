@@ -69,7 +69,7 @@
                                   <!-- <img src="../../assets/images/check.svg" alt="task-icon" class="task-complete-icon"> -->
                               </div>
                               <div class="task-desc">
-                                  <router-link to="" tag="h5">Business information</router-link>
+                                  <router-link to="/bank-info" tag="h5">Business information</router-link>
                                   <p>
                                       Please provide a few details about your business.
                                   </p>
@@ -89,7 +89,7 @@
                                   <!-- <img src="../../assets/images/check.svg" alt="task-icon" class="task-complete-icon"> -->
                               </div>
                               <div class="task-desc">
-                                  <router-link to="" tag="h5">Bank details</router-link>
+                                  <router-link to="/bank-details" tag="h5">Bank details</router-link>
                                   <p>
                                       Please provide bank details of you preferred settlement account.
                                   </p>
