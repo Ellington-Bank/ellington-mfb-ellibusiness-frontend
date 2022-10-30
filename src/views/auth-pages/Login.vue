@@ -49,7 +49,9 @@
                         </div>
                         <div class="col s12 center reg-lnk-div">
                             Don’t have an account? 
-                            <a href="/register" class="sec-color">Create One</a>
+                            <router-link to="/register" class="sec-color">
+                                Create One
+                            </router-link>
                         </div>
                         <div class="col s12 center terms-policy-div">
                             By signing in, you agree to our <br> 
