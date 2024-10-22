@@ -7,7 +7,7 @@
           <div class="form-side col s12 m6">
               <div class="auth-wrapper col s12 m7">
                 <div class="icon-div col s12">
-                  <img src="../../assets/images/airopay-icon.svg" alt="Airopay">
+                  <img src="../../assets/images/ellignton-pay-logo-black.png" alt="ElligntonPay">
                 </div>
                 <div class="greeting-div col s12">
                     <h4 class="pry-color">

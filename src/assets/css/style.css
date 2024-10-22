@@ -1,7 +1,7 @@
 :root{
-    --pry-color: #022c81;
-    --sec-color: #ADC959;
-    --pry-txt-color: #0C2556;
+    --pry-color: #000000;
+    --sec-color: #86872d;
+    --pry-txt-color: #383839;
 
     --font: 'inter', sans-serif;
     --font-light: 'inter-light', sans-serif;
@@ -22,7 +22,7 @@
 	border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
-	background: rgba(2, 44, 129, 0.5);
+	background: rgba(0, 0, 0, 0.5);
 }
 
 body{
@@ -90,6 +90,9 @@ h5, h6{
 }
 .abs{
     position: absolute;
+}
+button.submit-btn:focus {
+    background-color: #383839;
 }
 
 /*---=== Welcome-Dashboard Styles ===---*/
@@ -172,6 +175,9 @@ button.gol-live-btn {
 button.gol-live-btn:disabled {
     background: #D0D7E6;
     cursor: default;
+}
+.content-window>.cont>.window-icon img {
+    width: 28px;
 }
 /*---=== end of Welcome-Dashboard Styles ===---*/
 

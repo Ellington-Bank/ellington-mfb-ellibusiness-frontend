@@ -112,6 +112,9 @@ button.submit-btn {
     /* margin-bottom: 20px; */
     position: absolute;
 }
+.auth-wrapper .icon-div > img {
+    width: 28px;
+}
 .form-wrapper{
     margin-bottom: 30px;
 }

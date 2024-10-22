@@ -89,8 +89,8 @@
               </ul>
 
               <div class="side-nav-footer">
-                  <img src="../assets/images/airopay-icon(white).svg" alt="">
-                  <span>© Airopay Limited</span>
+                  <img src="../assets/images/ellignton-pay-logo-white.png" alt="ElligntonPay">
+                  <span>© ElligntonPay</span>
               </div>
           </div>
       </div>

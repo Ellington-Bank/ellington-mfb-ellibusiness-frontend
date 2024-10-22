@@ -10,7 +10,7 @@
                     <div class="content-window">
                         <div class="cont">
                             <div class="window-icon right-align">
-                                <img src="../assets/images/airopay-icon.svg" alt="transfer" />
+                                <img src="../assets/images/ellignton-pay-logo-black.png" alt="transfer" />
                             </div>
                             <div class="window-title-div">
                                 <h5 class="window-title">How can we help?</h5>

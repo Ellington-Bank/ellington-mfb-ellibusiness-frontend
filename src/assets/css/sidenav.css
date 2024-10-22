@@ -52,17 +52,17 @@ ul li a{
     position: relative;
     padding: 12px 0;
 }
-ul li a.active, ul li a:hover {
-    background-color: #123882;
+ul li a.router-link-exact-active, ul li a:hover {
+    background-color: #383839;
 }
-ul li a:hover::before, ul li a.active::before {
+ul li a:hover::before, ul li a.router-link-exact-active::before {
     position: absolute;
     content: "";
     width: 8px;
     height: 100%;
     left: 0;
     top: 0;
-    border-left: 5px solid #ADC959;
+    border-left: 5px solid var(--sec-color);
 }
 .side-nav-footer {
     position: absolute;
@@ -71,6 +71,8 @@ ul li a:hover::before, ul li a.active::before {
     border-top: 1px solid rgba(241,241,241,0.5);
     padding: 12px 15px 10px;
     font-size: 13px;
+    display: flex;
+    align-items: center;
 }
 .side-nav-footer img {
     padding-right: 15px;

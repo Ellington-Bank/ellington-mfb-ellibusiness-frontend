@@ -5,7 +5,7 @@
               <div class="picture-bg"></div>
           </div>
           <div class="icon-div">
-              <img src="../../assets/images/airopay-icon.svg" alt="Airopay">
+              <img src="../../assets/images/ellignton-pay-logo-black.png" alt="ElligntonPay">
           </div>
           <div class="form-side col s12 m6">
               <div class="auth-wrapper col s12 m11">

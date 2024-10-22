@@ -10,7 +10,7 @@
                     <div class="content-window">
                         <div class="cont">
                             <div class="window-icon right-align">
-                                <img src="../../assets/images/airopay-icon.svg" alt="transfer" />
+                                <img src="../../assets/images/ellignton-pay-logo-black.png" alt="transfer" />
                             </div>
                             <div class="window-title-div">
                                 <h5 class="window-title">Choose a Transfer Destination</h5>
@@ -21,7 +21,7 @@
                                         <img src="../../assets/images/airopay-user.svg" alt="icon" class="option-icon" />
                                     </div>
                                     <div class="option-desc-div">
-                                        <span>To an Airopay User</span>
+                                        <span>To an ElligntonPay User</span>
                                     </div>
                                     <div class="next-icon-div">
                                         <img src="../../assets/images/next-arr.svg" alt="icon" class="arr-icon" />
@@ -44,7 +44,7 @@
 
                         <div class="secured-notice center">
                             <img src="../../assets/images/padlock.svg" alt="padlock-icon" />
-                            <span> Secured by Airopay.com</span>
+                            <span> Secured by ElligntonPay.com</span>
                         </div>
                     </div>
               </div>

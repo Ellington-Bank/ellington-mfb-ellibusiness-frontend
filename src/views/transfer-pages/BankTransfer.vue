@@ -9,7 +9,7 @@
                     <div class="content-window">
                         <div class="cont">
                             <div class="window-icon right-align">
-                                <img src="../../assets/images/airopay-icon.svg" alt="transfer" />
+                                <img src="../../assets/images/ellignton-pay-logo-black.png" alt="transfer" />
                             </div>
                             <div class="window-title-div">
                                 <h5 class="window-title">Transfer to a Bank Account</h5>
@@ -45,7 +45,7 @@
 
                         <div class="secured-notice center">
                             <img src="../../assets/images/padlock.svg" alt="padlock-icon" />
-                            <span> Secured by Airopay.com</span>
+                            <span> Secured by ElligntonPay.com</span>
                         </div>
                     </div>
               </div>
