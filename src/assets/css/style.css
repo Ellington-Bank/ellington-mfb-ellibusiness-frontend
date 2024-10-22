@@ -24,6 +24,10 @@
 ::-webkit-scrollbar-thumb:hover {
 	background: rgba(0, 0, 0, 0.5);
 }
+::selection {
+    background-color: #ADC959;
+    color: white;
+}
 
 body{
     font-family: var(--font);
