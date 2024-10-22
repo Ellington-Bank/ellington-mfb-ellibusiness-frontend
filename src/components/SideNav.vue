@@ -69,6 +69,12 @@
                           <span>Save & Invest</span>
                       </router-link>
                   </li>
+                  <li class="side-nav-item">
+                      <router-link to="/transfer">
+                          <img src="../assets/images/invoicing.svg" alt="nav-icon" />
+                          <span>Transfer</span>
+                      </router-link>
+                  </li>
               </ul>
 
               <!-- <hr class="nav-divider" /> -->
