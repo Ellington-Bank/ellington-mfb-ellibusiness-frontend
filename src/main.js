@@ -5,7 +5,7 @@ import store from './store'
 
 import 'jquery'  
 import 'materialize-css/dist/css/materialize.min.css'
-import 'material-design-icons/iconfont/material-icons.css'
+// import 'material-design-icons/iconfont/material-icons.css'
 
 import Chartkick from 'vue-chartkick'
 import Chart from 'chart.js'

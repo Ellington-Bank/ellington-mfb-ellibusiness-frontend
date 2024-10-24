@@ -103,4 +103,7 @@ ul li a:hover::before, ul li a.router-link-exact-active::before {
     #side-nav{
         display: none;
     }
+    .side-nav-item a span {
+        display: none;
+    }
 }
